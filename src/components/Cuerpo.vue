@@ -16,7 +16,7 @@
         <div class="card">
             <div class="img-card">               
             </div>
-                <h2>Titulo las alksa akieiruf dnkdkkkd dkksks dkks s  sss </h2>
+                <h2>Titulo las kks s  sss </h2>
                 <p>te invito a invitar para que invitemos kfkafkfkaskf</p>
         </div >
         <div class="card">
@@ -37,24 +37,24 @@
 <style scoped>
 
 
-.cuerpo{
-    
+.cuerpo{    
     min-height: 50vh;
     display: grid;
     /*grid-auto-rows: 5rem;*/
-    grid-template-columns: repeat(auto-fill, minmax(22rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(30rem, 0.2fr));
     justify-content: center;
     align-content: space-around;
-    gap:.5rem;
+    gap:2rem;
     text-align: left;
-    margin-top: 2rem; 
     padding: 1rem; 
+    font-family: 'Manrope', sans-serif;
+
 }
 
 .cuerpo h2{
     grid-column: 1/-1;    
     height: 5rem;
-    margin-top: -2rem;
+    margin-top: 2rem;
     text-align: center;
     justify-content: center;
     align-self: center;    
@@ -92,7 +92,11 @@
 }
 .card h2 {
     margin-top: 0;
-    text-align: center;    
+    text-align: left;  
+    color:#db8a64; 
+    text-transform: uppercase; 
+    font-weight: 800;
+    padding: .5rem ;
 }
 .card p{
     margin: 0px;
@@ -151,4 +155,57 @@
     }
 }
 
+/*///////////////////////////////////////////////////////////////////*/
+
+
+.waves {
+      position: absolute;
+/*      left: 0;
+      right: 0;
+      height: 200px;
+      bottom: 0;*/
+      bottom: -135px;
+      height: 527px;
+      width: 100%;
+      overflow: hidden;
+    }
+    .wave {
+      position: absolute;
+      left: -180px;
+      bottom: 0;
+      /*width: 200px;*/
+      /*height: 200px;*/
+      /*width: 100%;*/
+      /*border-radius: 50%;*/
+      /*background:rgba(0,0,0, .3);*/
+      width: 2402px;
+      height: 427px;
+      background: url(https://static.platzi.com/media/files/waves_c8551f5d-ecf6-4a81-ae1d-f3a0ad55ba10.png) center bottom no-repeat;
+      animation: 5s wave ease-in-out infinite alternate;
+    }
+    .wave.a {
+      background-position: 0 -854px;
+    }
+    .wave.b {
+      background-position: 0 -427px;
+      animation-delay: .6s;
+    }
+    .wave.c {
+      background-position: 0 0;
+      animation-delay: 1.2s;
+    }
+    /*.container {
+      position: absolute;
+    }*/
+    @keyframes wave {
+      0% {
+        transform: translate(0 , 0);
+      }
+      50% {
+        transform: translate(-80px, 30px);
+      }
+      100% {
+        transform: translate(160px, -60px);
+      }
+    }
 </style>

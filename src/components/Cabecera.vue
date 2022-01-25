@@ -36,7 +36,7 @@ export default {
 .cabecera{
   color: #fff; 
   width: 100%;
-  height: 400px;
+  height: 500px;
   display:grid;
   grid-template-columns: 1fr 55%;
   justify-content: center;
@@ -44,10 +44,11 @@ export default {
   background-image: url(../assets/susi3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-y: 25%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
+  background-position-y: 30%;
+  font-family: 'Manrope', sans-serif;
+ 
 }
+
 .circulo{
   display: none;
   width: 200px;
@@ -73,10 +74,12 @@ export default {
 .cargo h2{
   font-size: 3rem;
   line-height: 2.3rem;
+  font-weight: 800;
 }
 .cargo h3{
-  font-size: 1.9rem;
-  line-height: 1.8rem;
+  font-family: 'Comforter', cursive;
+  font-size: 3.5rem;
+  line-height: 4rem;
 }
 .redes{
   display:flex;
@@ -180,11 +183,12 @@ export default {
       }
       .cargo h2{
         font-size: 1.8rem;
-        line-height: 1.6rem;
+        line-height: 0.6rem;
+        margin-top: 3rem;
       }
       .cargo h3{
-        font-size: 1.5rem;
-        line-height: 1,2rem;        
+        font-size: 2.5rem;
+        line-height: 0,2rem;        
       }
 }
 
