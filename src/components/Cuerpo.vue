@@ -1,7 +1,7 @@
 <template>
     <div class="cuerpo">
      <div class="titulo full">
-        <h2>Queremos ser la versión más consciente de nosotras mismas</h2>
+        <h2>Queremos ser lala la versión más consciente de nosotras mismas</h2>
     </div>
 
         <div class="card">

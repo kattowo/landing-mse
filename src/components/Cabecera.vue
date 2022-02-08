@@ -15,13 +15,10 @@
                 </div>  
               </a>   
           </div>
-
-      por que mierda no veo los cambios
-      
     </div>
-
+        aqui deben ver a los circulos
         <div class="waves">        
-              <div class="circulo-wave1"></div>
+              <div class="circulo-wave1">aqui estan los circulos</div>
               <div class="circulo-wave2"></div>  
               <div class="circulo-wave3"></div>    
            
