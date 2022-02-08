@@ -9,7 +9,7 @@
              </div>
                 <h2>Titulo</h2>
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Lorem, ipsum dolor sit amet consectetur adipisit.
                    Veniam earum necessitatibus repudiandae nobis, impedit veritatis iure accusamus
                    quae reprehenderit sunt corrupti, vero dolor quos voluptatem quod dolorum praesentium,
                    aliquam tenetur.
@@ -22,7 +22,7 @@
                 <h2>Titulo las kks s  sss </h2>
                   <p>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                   Veniam earum necessitatibus repudiandae nobis, impedit veritatis iure accusamus
+                   Veniam earum necessitatibus robis, impedit veritatis iure accusamus
                    quae reprehenderit sunt corrupti, vero dolor quos voluptatem quod dolorum praesentium,
                    aliquam tenetur.
                 </p>
@@ -34,7 +34,7 @@
                <p>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                    Veniam earum necessitatibus repudiandae nobis, impedit veritatis iure accusamus
-                   quae reprehenderit sunt corrupti, vero dolor quos voluptatem quod dolorum praesentium,
+                   quae reprehenderit sunt corrupti, vero dolor quos voluptatemd praesentium,
                    aliquam tenetur.
                 </p>
         </div >
