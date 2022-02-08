@@ -7,7 +7,7 @@
           <div class="circulo3"></div>  
           <div class="cargo">
           <h2>Susana Ramírez</h2>
-          <h3>Mujer sin edad</h3>
+          <h3>Mujer sin edasssssssssd</h3>
           <div class="redes">
               <a href="https://instagram.com/mujersinedad" target="_blank" rel="noopener noreferrer">
                 <div class="redes-circulo">
@@ -16,6 +16,7 @@
               </a>   
           </div>
 
+      por que mierda no veo los cambios
       
     </div>
 
